@@ -68,4 +68,4 @@
   - 항목 1-1 
 
 13. 이모지 추가하기 관련 URL
-14. [이모지검색 및 다운로드 사이트](https://emojipedia.org/)
+[이모지검색 및 다운로드 사이트](https://emojipedia.org/)
