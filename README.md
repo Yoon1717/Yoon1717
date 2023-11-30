@@ -46,7 +46,7 @@
 - 로그인 세션
 
 
-## [음악 추천을 위한 데이터 수집과 NPL 자연어 처리](https://github.com/Yoon1717/MusicRecommend.git "YoonyCalendar")
+## [음악 추천을 위한 데이터 수집과 NPL 자연어 처리](https://github.com/Yoon1717/MusicRecommend/blob/main/musicRecommend.pdf "MusicRecommend")
 ### 언어와 개발환경
 - Python
 - Pycharm
