@@ -25,41 +25,26 @@
 ## [간편한 기록을 위한 아이콘 등록과 풀캘린더 연동](https://github.com/Yoon1717/YoonCalendar.git "YoonCalendar")
 ### 언어와 개발환경
 ###### 언어
-- HTML
-- CSS
-- javaScript
-- java
-- SQL
+- HTML / CSS / javaScript / java / SQL
   
 ###### 개발환경
-- VSCode
-- STS
-- Oracle Database
+- VSCode / STS / Oracle Database
 
 ### 주요 기능
-- spring MVC
-- FullCalendar
-- bootstrap
-- ajax 통신
-- 회원가입 관련 CRUD
-- 비밀번호 암호화
-- 로그인 세션
+- spring MVC / FullCalendar / bootstrap / ajax 통신 / 회원가입 관련 CRUD / 비밀번호 암호화 / 로그인 세션
 
 
 ## [음악 추천을 위한 데이터 수집과 NPL 자연어 처리](https://github.com/Yoon1717/MusicRecommend/blob/main/musicRecommend.pdf "MusicRecommend")
 ### 언어와 개발환경
-- Python
-- Pycharm
+- Python / Pycharm
 
 ### 주요 기능
 ###### 데이터 크롤링
-- selenium webdriber
-- beautifulsoup
-- pandas
-- 
+- selenium webdriber / beautifulsoup / pandas
+  
 ###### 데이터 전처리
 - konlpy Okt : 한국어 형태소 분석
-- 
+  
 ###### 모델
 - gensim FastText
 > Word2Vec와 FastText와의 가장 큰 차이점이라면 Word2Vec는 단어를 쪼개질 수 없는 단위로 생각한다면, FastText는 하나의 단어 안에도 여러 단어들이 존재하는 것으로 간주합니다
@@ -67,7 +52,7 @@
 - keras Tokenizer : 토큰화, 임베딩 행렬 생성
 - sklearn cosine_similarity
 - numpy
-- 
+
 ###### 서버와 시각화
 - flask
 - matplotlib 
