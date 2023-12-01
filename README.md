@@ -10,8 +10,9 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Yoon1717&show_icons=true&locale=en" alt="gayoung" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yoon1717&" alt="gayoung" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yoon1717&show_icons=true&locale=en" alt="gayoung" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yoon1717&" alt="gayoung" /></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoon1717&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
 </div>
 
