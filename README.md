@@ -80,8 +80,11 @@
 ### 프로젝트 설명 
 2050 탄소중립 시나리오 정책에 맞춰 개인 사용자를 대상으로한 가상의 BEMS을 구축하였습니다. <br> 사용자의 시간별 전력 사용량을 [AIHub의 전력소비패턴 데이터](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=71359)를 가공해 가상의 사용자에게 부여하고 실시간으로 서버에 사용자의 전력량을 저장하였습니다. <br> 사용자의 실시간 사용 에너지를 분석하여 사용자의 전력소비패턴을 안내하며, 기존의 데이터와 실시간 데이터를 학습에 활용하여 '이달의 예상 사용량', '날씨 변화에 따른 예상 사용량'과 같은 예측 정보를 사용자에게 전달합니다.<br> 또한 사용자는 [한국전력공사의 전기공급약관](https://cyber.kepco.co.kr/ckepco/front/jsp/CY/D/C/CYDCHP00401.jsp)에 따라 계산된 사용량 대비 전기요금을 계산해볼 수 있으며 반대로 이달의 전기요금 목표액을 전력량으로 계산하여 일당 권장 사용량과 같은 정보를 얻을 수 있습니다. 
 #### 위 프로젝트를 통하여 사용자는 본인의 전기 에너지 사용 패턴을 인지하고 전기요금과 같은 정보를 미리 예상할 수 있습니다. 궁극적으로 사용자는 본인의 의지로 현명한 전기 에너지 소비를 하게 되며 이를 통해 탄소중립이라는 중대한 문제에 한걸음 다가갈 수 있다고 생각합니다.
-![image](https://github.com/Yoon1717/Yoon1717/assets/142978097/a9d11983-d67d-488f-9380-73f1d2352b05)
+![image](https://github.com/Yoon1717/Yoon1717/assets/142978097/0a10c99f-8053-4d19-86fa-82d17dc7fbde)
 ![image](https://github.com/Yoon1717/Yoon1717/assets/142978097/62052c5c-e7b8-4eb7-9810-1fda666d454e)
+![image](https://github.com/Yoon1717/Yoon1717/assets/142978097/9ecaaca1-f954-42a5-9ea5-8d142a610a8f)
+
+
 
 
 ### 맡은 업무와 기여도
