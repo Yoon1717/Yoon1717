@@ -74,7 +74,7 @@
 
 # introduceMyProject
 
-## ❤️ [(Team) 건물에너지 빅데이터를 활용한 사용자 맞춤형 전력 소비 예측 시스템](https://github.com/Yoon1717/TeamEcoala)
+## 👉 [(Team) 건물에너지 빅데이터를 활용한 사용자 맞춤형 전력 소비 예측 시스템](https://github.com/Yoon1717/TeamEcoala)
 ### 프로젝트 기간
  2023.11.07 ~ 2023.12.26
 ### 프로젝트 설명 
@@ -98,7 +98,7 @@
 
  
 
-## ❤️ [음악 추천을 위한 데이터 수집과 NPL 자연어 처리](https://github.com/Yoon1717/MusicRecommend/blob/main/musicRecommend.pdf "MusicRecommend")
+## 👉 [음악 추천을 위한 데이터 수집과 NPL 자연어 처리](https://github.com/Yoon1717/MusicRecommend/blob/main/musicRecommend.pdf "MusicRecommend")
 ### 프로젝트 기간
  2023.10.23 ~ 2023.10.30
 ### 프로젝트 설명 
@@ -123,7 +123,7 @@ keras Tokenizer : 토큰화, 임베딩 행렬 생성 <br>
 sklearn cosine_similarity <br>
 numpy <br>
   
-## ❤️ [간편한 기록을 위한 아이콘 등록과 풀캘린더 연동](https://github.com/Yoon1717/YoonyCalendar/blob/main/YoonyCalendar.pdf "YoonCalendar")
+## 👉 [간편한 기록을 위한 아이콘 등록과 풀캘린더 연동](https://github.com/Yoon1717/YoonyCalendar/blob/main/YoonyCalendar.pdf "YoonCalendar")
 ### 프로젝트 기간 
 2023.09.18 ~ 2023.09.26
 ### 프로젝트 설명 
