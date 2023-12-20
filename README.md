@@ -74,7 +74,7 @@
 
 # introduceMyProject
 
-## (Link) [(Team) 건물에너지 빅데이터를 활용한 사용자 맞춤형 전력 소비 예측 시스템](https://github.com/Yoon1717/TeamEcoala/blob/main/Ecoala.pdf)
+## (Link) [(Team) 건물에너지 빅데이터를 활용한 사용자 맞춤형 전력 소비 예측 시스템](https://github.com/Yoon1717/TeamEcoala)
 ### 프로젝트 기간
  2023.11.07 ~ 2023.12.26
 ### 프로젝트 설명 
